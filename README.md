@@ -9,7 +9,7 @@ python3 rest.py
 
 
 
-````markdown
+
 ## 📡 API Reference
 
 Robotun durumu ve görev takibi için aşağıdaki endpoint kullanılır.
@@ -18,7 +18,7 @@ Robotun durumu ve görev takibi için aşağıdaki endpoint kullanılır.
 
 ```http
 GET /api/status
-````
+```
 
 Bu endpoint, aktif görevin durumunu (`status`), ilerlemesini ve robotun anlık konumunu döndürür.
 
