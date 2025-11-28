@@ -16,7 +16,6 @@ app.add_middleware(
 robot_state = {
     "task_id": None,
     "status": "OFFLINE",
-    "progress": 0,
     "pos": {"x": 0.0, "y": 0.0, "theta": 0.0},
     "type": "none"
 }
